@@ -1,7 +1,7 @@
 package com.hzh.demo.util;
 
 import com.alibaba.fastjson.JSON;
-import com.hzh.demo.DTO.SessionDataBo;
+import com.hzh.demo.bo.SessionDataBo;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.util.Assert;
 

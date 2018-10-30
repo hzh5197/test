@@ -1,4 +1,4 @@
-package com.hzh.demo.DTO;
+package com.hzh.demo.bo;
 
 public class SessionDataBo {
 
